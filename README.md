@@ -38,6 +38,9 @@
 | `script.js` | логіка розрахунків                   |
 | `style.css` | оформлення сторінки                  |
 
+<img width="646" height="800" alt="image" src="https://github.com/user-attachments/assets/cb3ba7df-b55e-4709-b5db-2d916b75e86d" />
+
+
 Залежностей і збірки немає — лише HTML, CSS і JavaScript.
 
 ## Обмеження
